@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sören
-- 👀 I’m interested in Java, C# and Python. I also do kinda front-end Web development
+- 👀 I’m interested in Java, C# and Python. I'm also do kinda front-end Web development
 - 🌱 I’m currently learning Java at my school
 - 💞️ I’m not a professional so please be gentel
 - 📫 You can reach me via E-Mail
